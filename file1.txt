@@ -4,3 +4,7 @@ This is a text file created for the purpose of trying out GIT concepts.
 DATE: 9th Dec 2017
 TIME: 12.20 AM
 LOC:  Bangalore
+
+Events:
+1. Created Master branch with just 1 file
+2. Created branch and updated the only file
