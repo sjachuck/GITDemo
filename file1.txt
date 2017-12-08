@@ -4,3 +4,7 @@ This is a text file created for the purpose of trying out GIT concepts.
 DATE: 9th Dec 2017
 TIME: 12.20 AM
 LOC:  Bangalore
+
+Events:
+1. Added another file named file2.txt
+2. Added events list to file1.txt
