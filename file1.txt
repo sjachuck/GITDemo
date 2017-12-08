@@ -8,3 +8,5 @@ LOC:  Bangalore
 Events:
 1. Created Master branch with just 1 file
 2. Created branch and updated the only file
+1. Added another file named file2.txt
+2. Added events list to file1.txt
